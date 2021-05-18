@@ -124,12 +124,12 @@ wincertstore==0.2
 wrapt==1.12.1
 #yarl @ file:///C:/ci/yarl_1606940076464/work
 #zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
-anyio==2.1.0
-argon2-cffi==20.1.0
-async-generator==1.10
-attrs==20.3.0
-backcall==0.2.0
-bleach==3.3.0
+anyio
+argon2-cffi
+async-generator
+attrs
+backcall
+bleach
 cffi==1.14.5
 colorama==0.4.4
 decorator==4.4.2
@@ -167,8 +167,8 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pywinpty==0.5.7
-pyzmq==22.0.3
-Send2Trash==1.5.0
+pyzmq
+Send2Trash
 six==1.15.0
 sniffio==1.2.0
 testpath==0.4.4
