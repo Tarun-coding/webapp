@@ -97,7 +97,7 @@ requests-oauthlib==1.3.0
 #scipy @ file:///C:/ci/scipy_1618856128765/work
 seaborn==0.11.1
 #Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
-sip==4.19.13
+#sip==4.19.13
 #six @ file:///C:/ci/six_1605187374963/work
 sniffio==1.2.0
 #3tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_te/tensorboard_1614593728657/work/tmp_pip_dir
