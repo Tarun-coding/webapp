@@ -1,4 +1,4 @@
-absl-py @ file:///C:/ci/absl-py_1615411229697/work
+#absl-py @ file:///C:/ci/absl-py_1615411229697/work
 aiohttp @ file:///C:/ci/aiohttp_1614361024229/work
 anyio==3.0.1
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work
